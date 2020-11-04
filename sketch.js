@@ -192,7 +192,7 @@ function reset(){
   obstacleGroup.destroyEach();
    bananaGroup.destroyEach();
    monkey.changeAnimation("moving",monkey_running);
-  servival_Time=0;
+  survival_Time=0;
   bananaCount=0;
   
    gameState=PLAY;
